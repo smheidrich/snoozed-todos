@@ -1,6 +1,6 @@
 # snoozed-todos
 
-Personal list of To-Dos currently blocked by external issues.
+Personal list of To-Dos (as GitHub issues) currently blocked by external issues.
 
 Uses the [SnoozeThis](https://github.com/marketplace/snoozethis)
 GitHub Marketplace app for notifications (hence the name).
